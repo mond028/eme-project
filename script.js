@@ -6,8 +6,8 @@ const noBtn = document.querySelector(".no-btn");
 const secondQuestion = document.querySelectorAll(".question")[1];
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Ayieeeee .. Crush din ako !";
-  secondQuestion.innerHTML = "Edi Tayo na hehehehe!"; 
+  question.innerHTML = "Ayieeeee .. ako !";
+  secondQuestion.innerHTML = "Edi send pic  na hehehehe!"; 
   img.src =
     "https://raw.githubusercontent.com/DzarelDeveloper/Img/main/AskCrush1.png";
 });
